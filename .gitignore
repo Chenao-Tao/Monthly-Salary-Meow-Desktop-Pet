@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+
+# 便携打包产物
+MiaoMiaoPet-Portable/
+月薪喵桌宠-Portable.zip
+
+# 配置文件（运行时自动生成）
+config.json
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
